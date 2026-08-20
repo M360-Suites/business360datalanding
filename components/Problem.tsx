@@ -32,7 +32,7 @@ export default function Problem() {
             viewport={{ once: true }}
             transition={{ delay: 0.2 }}
           >
-            Media buying and B2B research in Nigeria is still too slow, too fragmented, and too dependent on WhatsApp, spreadsheets, and outdated directories.
+            Finding reliable business data on Nigerian companies is slow, inconsistent, and produces data that goes stale quickly.
           </motion.p>
         </div>
 
@@ -49,7 +49,7 @@ export default function Problem() {
             </div>
             <h3 className="text-lg font-bold text-navy-900 mb-2">Hours Wasted</h3>
             <p className="text-sm text-slate-600">
-              Teams waste countless hours chasing contacts, comparing quotes, and trying to piece together a campaign from disconnected sources.
+              Teams waste countless hours piecing together information from government registries, LinkedIn, news sites, and word of mouth.
             </p>
           </motion.div>
 
@@ -65,7 +65,7 @@ export default function Problem() {
             </div>
             <h3 className="text-lg font-bold text-navy-900 mb-2">Outdated Information</h3>
             <p className="text-sm text-slate-600">
-              Business data decays rapidly. General-purpose providers offer broad lists but data goes stale within months without consistent re-verification.
+              Nigerian business contact data changes often. General-purpose providers offer broad lists but data goes stale within months without constant re-verification.
             </p>
           </motion.div>
 
@@ -79,9 +79,9 @@ export default function Problem() {
             <div className="w-12 h-12 bg-amber-50 text-amber-600 rounded-lg flex items-center justify-center mb-4">
               <PhoneOff className="w-6 h-6" />
             </div>
-            <h3 className="text-lg font-bold text-navy-900 mb-2">Unreliable Availability</h3>
+            <h3 className="text-lg font-bold text-navy-900 mb-2">Missing Decision-Makers</h3>
             <p className="text-sm text-slate-600">
-              Checking inventory availability requires endless back-and-forth follow-ups, leading to missed opportunities and delayed proposals.
+              Sales and BD teams struggle to find accurate, current contact information for the actual decision-makers with buying power.
             </p>
           </motion.div>
 
@@ -97,16 +97,16 @@ export default function Problem() {
             </div>
             <h3 className="text-lg font-bold text-navy-900 mb-2">Shallow Coverage</h3>
             <p className="text-sm text-slate-600">
-              Existing tools lack sector-specific depth. You get a contact name, but no visibility into license status, capacity, or actual market footprint.
+              Existing global tools lack sector-specific depth. You get a contact name, but no visibility into license status, capacity, or actual market footprint.
             </p>
           </motion.div>
         </div>
 
         <div className="mt-16 bg-navy-900 rounded-2xl p-8 lg:p-12 shadow-xl flex flex-col md:flex-row items-center justify-between gap-8">
           <div className="max-w-2xl">
-            <h3 className="text-2xl font-bold text-white mb-4">The Solution: One Command Center</h3>
+            <h3 className="text-2xl font-bold text-white mb-4">The Solution: Deep Sector Intelligence</h3>
             <p className="text-slate-300">
-              We turn scattered media information and business intelligence into one searchable, verified, and actionable system. Replace fragmented lists with one trusted platform built for scale and speed.
+              We turn scattered business intelligence into one searchable, verified, and actionable system. Replace fragmented lists with one trusted platform built for scale.
             </p>
           </div>
           <div className="flex-shrink-0">

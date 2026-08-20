@@ -5,33 +5,33 @@ import { Search, Scale, ShieldCheck, PenTool, CalendarCheck, BarChart } from "lu
 
 const steps = [
   {
-    title: "Discover inventory",
-    description: "Search inventory by channel, city, audience, or budget across 6 core sectors.",
+    title: "Discover companies",
+    description: "Search businesses by sector, location, size, or specific license status.",
     icon: Search,
   },
   {
-    title: "Compare options",
-    description: "Compare media options, rates, and supplier reliability side by side.",
+    title: "Filter and analyze",
+    description: "Compare company profiles, growth signals, and sector-specific attributes.",
     icon: Scale,
   },
   {
-    title: "Verify contacts",
-    description: "Access data timestamped and verified by our researchers every 30-60 days.",
+    title: "Verify data",
+    description: "Access contact information timestamped and verified by our research team.",
     icon: ShieldCheck,
   },
   {
-    title: "Build proposals",
-    description: "Create client-ready media plans and quotes in minutes instead of days.",
+    title: "Export target lists",
+    description: "Create highly targeted account lists for sales and due diligence in minutes.",
     icon: PenTool,
   },
   {
-    title: "Manage bookings",
-    description: "Share approvals, manage RFPs, and track insertion orders in one place.",
+    title: "Track competitors",
+    description: "Monitor market shifts, new entrants, and funding history across sectors.",
     icon: CalendarCheck,
   },
   {
-    title: "Measure results",
-    description: "Monitor post-campaign performance and improve future campaigns.",
+    title: "Map relationships",
+    description: "Understand organizational structures and identify key decision-makers.",
     icon: BarChart,
   },
 ];

@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="space-y-8">
             <span className="text-2xl font-bold text-navy-900 tracking-tight">Business360 Data</span>
             <p className="text-sm leading-6 text-slate-600 max-w-xs">
-              The operating system for African media planning, buying, and B2B intelligence. Find, verify, and book every opportunity from one platform.
+              The sector-focused B2B business intelligence database built for Nigeria. Find, understand, and reach verified Nigerian companies from one platform.
             </p>
           </div>
           <div className="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
@@ -17,9 +17,9 @@ export default function Footer() {
               <div>
                 <h3 className="text-sm font-semibold leading-6 text-navy-900">Platform</h3>
                 <ul className="mt-6 space-y-4">
-                  <li><Link href="#" className="text-sm leading-6 text-slate-600 hover:text-primary-600">Media Explorer</Link></li>
-                  <li><Link href="#" className="text-sm leading-6 text-slate-600 hover:text-primary-600">Media Planner</Link></li>
-                  <li><Link href="#" className="text-sm leading-6 text-slate-600 hover:text-primary-600">Intelligence Enterprise</Link></li>
+                  <li><Link href="#" className="text-sm leading-6 text-slate-600 hover:text-primary-600">Company Search</Link></li>
+                  <li><Link href="#" className="text-sm leading-6 text-slate-600 hover:text-primary-600">Sector Intelligence</Link></li>
+                  <li><Link href="#" className="text-sm leading-6 text-slate-600 hover:text-primary-600">Economy Insights</Link></li>
                 </ul>
               </div>
               <div className="mt-10 md:mt-0">

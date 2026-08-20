@@ -21,7 +21,7 @@ export default function Hero() {
             transition={{ duration: 0.5 }}
           >
             <span className="inline-flex items-center rounded-full bg-primary-50 px-3 py-1 text-sm font-semibold text-primary-600 ring-1 ring-inset ring-primary-500/20 mb-6">
-              New: Media Intelligence & Planning
+              Sector-Focused B2B Intelligence
             </span>
           </motion.div>
           
@@ -31,7 +31,7 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
           >
-            Find, verify, and book every opportunity in Africa.
+            Find, understand, and reach Nigerian companies.
           </motion.h1>
           
           <motion.p
@@ -40,8 +40,8 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
-            The operating system for B2B intelligence and media buying in Nigeria. 
-            Search verified OOH, TV, radio, digital, and influencer inventory with contacts, rates, availability, and campaign workflows built in.
+            The B2B business intelligence database built for Nigeria's highest-value industries. 
+            Access verified company data, deep sector intelligence, and strategic insights—updated regularly by our research team.
           </motion.p>
           
           <motion.div
@@ -58,7 +58,7 @@ export default function Hero() {
               <ArrowRight className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
             </Link>
             <Link href="#" className="text-sm font-semibold leading-6 text-navy-900 hover:text-primary-600 transition-colors">
-              See sample inventory <span aria-hidden="true">→</span>
+              See sample data <span aria-hidden="true">→</span>
             </Link>
           </motion.div>
           
@@ -79,7 +79,7 @@ export default function Hero() {
                 />
               ))}
             </div>
-            <p>Built for agencies, brands, and media teams.</p>
+            <p>Built for sales, strategy, and investment teams.</p>
           </motion.div>
         </div>
 
